@@ -11,9 +11,10 @@
 ## Back end
 - Java
 - Spring Boot
-- JPA / Hibernate
+- JPA
+- h2 console
 - Maven
-- Postman
+
 
   ## Padrão Camadas
 - Controller
@@ -21,6 +22,11 @@
 - Service
 - JPA Repository
 - Entity
+
+# Testador de Requisição HTTP Ultilizado
+## Postman
+- GET
+- POST
 
 ### import.sql
 

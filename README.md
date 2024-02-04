@@ -2,6 +2,12 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/luquinhas29/listgames/blob/main/LICENSE)
 
+## Sobre o Projeto
+```
+Projeto List games, objetivo do projeto listar uma lista de games usando as
+tecnologias java, spring boot, JPA, h2, Maven e postman para
+requisição http no formato JSON.
+``` 
 
 ## Modelo de domínio List Games
 
